@@ -5,6 +5,13 @@ Made by: u/The3DPrintist
 V1.0
 
 
+## Introduction:
+
+The skecpticism twoards the safety of this program is very reasonable, I am working to make sure that the program is as safe as possible.
+
+This program utilises the "latest.log" file that minecraft uses, this file contains no exploitable information.
+
+
 ## Directory Setup:
 
 If the text “latest.log has been located” is visible, you don't have to change anything.
