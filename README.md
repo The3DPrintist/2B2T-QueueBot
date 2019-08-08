@@ -31,6 +31,8 @@ You can either receive an sms or an email to notify you.
 
 The notification system does not require any passwords to use, just the email or phone number for the message to be sent to.
 
+You may test the message by clicking the “Test Email” button, it has a cooldown, and a limit of 5 messages an hour
+
 ## SMS Setup:
 
 Select your phone provider in the dropdown, If you don't have one of the providers, you can hardcode the email, refer to Email Setup.  Most phone providers have email systems to text via Email.
@@ -40,16 +42,11 @@ Input your phone number into the box labeled “Phone Number / Email” with no 
 Example of what the phone number should look like:
 1234567890
 
-You may test the message by clicking the “Test Email” button, it has a cooldown, and a limit of 5 messages an hour
-
 ## Email Setup:
 
 Select “Email instead” in the dropdown.
 
 Input your email address into the box labeled “Phone Number / Email”
-
-You may test the message by clicking the “Test Email” button, it has a cooldown.
-
 
 ## Reset:
 
