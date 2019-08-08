@@ -1,0 +1,1162 @@
+[15:13:15] [main/INFO]: Loading tweak class name optifine.OptiFineTweaker
+[15:13:15] [main/INFO]: Using primary tweak class name optifine.OptiFineTweaker
+[15:13:15] [main/INFO]: Calling tweak class optifine.OptiFineTweaker
+[15:13:16] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[15:13:16] [main/INFO]: [OptiFine] *** Reflector Forge ***
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.Attributes
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.BrandingControl
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.ICapabilityProvider
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.capabilities.CapabilityProvider
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientModLoader
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.ChunkEvent$Load
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.ClientHooks
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.CrashReportExtender
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Pre
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.GuiScreenEvent$DrawScreenEvent$Post
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$FogColors
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.EntityViewRenderEvent$RenderFogEvent
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.EntityJoinWorldEvent
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.IEventBus
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.eventbus.api.Event$Result
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeBlock
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.ForgeBlockModelRenderer
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: dnv.getTexture
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: dpt.getModelData
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addDestroyEffects
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.addHitEffects
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.canRenderInLayer
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getLightValue
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.getStateAtViewpoint
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.hasTileEntity
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: net.minecraftforge.common.extensions.IForgeBlockState.isAir
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeFluidState
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEntity
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: ais.getTags
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Field not present: aix.NAMETAG_DISTANCE
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.ForgeEventFactory
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: clj.getTags
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ForgeHooksClient
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfig$Client
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeConfigSpec$ConfigValue
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItem
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeItemStack
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.ForgeI18n
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.IModel
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyConflictContext
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.setKeyModifierAndCode
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: cxz.getKeyModifier
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.ForgeMod
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: dof.fromJson
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffect
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeEffectInstance
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.registries.ForgeRegistryEntry
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeTileEntity
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.preDraw
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Method not present: cvd$b.postDraw
+[15:13:16] [main/WARN]: [OptiFine] Field not found: tileEntitiesToBeRemoved
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.extensions.IForgeDimension
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.gui.GuiModList
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.IRenderHandler
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.ItemModelMesherForge
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyConflictContext
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.settings.KeyModifier
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.pipeline.LightUtil
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.common.Loader
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.common.MinecraftForge
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.MinecraftForgeClient
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.gui.NotificationModUpdateScreen
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.entity.PlaySoundAtEntityEvent
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderBlockOverlayEvent$OverlayType
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.registry.RenderingRegistry
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderItemInFrameEvent
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Pre
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Post
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Pre
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.RenderLivingEvent$Specials$Post
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.event.ScreenshotEvent
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.server.ServerLifecycleHooks
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.fml.client.SplashProgress
+[15:13:16] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.event.world.WorldEvent$Load
+[15:13:16] [main/INFO]: [OptiFine] *** Reflector Vanilla ***
+[15:13:16] [main/INFO]: Setting user: zackalegomaniac
+[15:13:20] [main/WARN]: Skipping bad option: textBackgroundOpacity:
+[15:13:20] [main/INFO]: [STDERR]: java.lang.NumberFormatException: empty String
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.misc.FloatingDecimal.readJavaFormatString(FloatingDecimal.java:1842)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.misc.FloatingDecimal.parseFloat(FloatingDecimal.java:122)
+[15:13:20] [main/INFO]: [STDERR]: 	at java.lang.Float.parseFloat(Float.java:451)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyg.a(GameSettings.java:836)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyg.a(GameSettings.java:647)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyg.<init>(GameSettings.java:351)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyc.au(SourceFile:440)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyc.b(SourceFile:394)
+[15:13:20] [main/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:155)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[15:13:20] [main/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[15:13:20] [main/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159)
+[15:13:20] [main/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:30)
+[15:13:20] [main/INFO]: [OptiFine] Skipping bad option: key_of.key.zoom:46
+[15:13:20] [main/INFO]: [STDERR]: java.lang.IllegalArgumentException: Unknown key name: 46
+[15:13:20] [main/INFO]: [STDERR]: 	at cue.a(SourceFile:442)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyg.loadOfOptions(GameSettings.java:2501)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyg.a(GameSettings.java:806)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyg.<init>(GameSettings.java:351)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyc.au(SourceFile:440)
+[15:13:20] [main/INFO]: [STDERR]: 	at cyc.b(SourceFile:394)
+[15:13:20] [main/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(SourceFile:155)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[15:13:20] [main/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[15:13:20] [main/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[15:13:20] [main/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159)
+[15:13:20] [main/INFO]: [STDERR]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:30)
+[15:13:20] [main/INFO]: LWJGL Version: 3.2.2 build 10
+[15:13:23] [main/INFO]: [OptiFine] 
+[15:13:23] [main/INFO]: [OptiFine] OptiFine_1.14.4_HD_U_F3
+[15:13:23] [main/INFO]: [OptiFine] Build: 20190806-172046
+[15:13:23] [main/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[15:13:23] [main/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[15:13:23] [main/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[15:13:23] [main/INFO]: [OptiFine] LWJGL: 3.3.0 Win32 WGL EGL OSMesa VisualC DLL
+[15:13:23] [main/INFO]: [OptiFine] OpenGL: GeForce GTX 1080/PCIe/SSE2, version 4.6.0 NVIDIA 417.22, NVIDIA Corporation
+[15:13:23] [main/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[15:13:23] [main/INFO]: [OptiFine] Maximum texture size: 32768x32768
+[15:13:23] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[15:13:23] [main/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 417.22
+[15:13:23] [main/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[15:13:23] [main/INFO]: [Shaders] Renderer: GeForce GTX 1080/PCIe/SSE2
+[15:13:23] [main/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[15:13:23] [main/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[15:13:23] [main/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[15:13:23] [main/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[15:13:23] [main/INFO]: [Shaders] Load shaders configuration.
+[15:13:23] [main/INFO]: [Shaders] No shaderpack loaded.
+[15:13:23] [VersionCheck/INFO]: [OptiFine] Version found: F2
+[15:13:23] [main/INFO]: [OptiFine] (Reflector) Class not present: net.minecraftforge.client.model.ModelLoader
+[15:13:23] [main/INFO]: Narrator library for x64 successfully loaded
+[15:13:23] [main/INFO]: [OptiFine] *** Reloading textures ***
+[15:13:23] [main/INFO]: [OptiFine] Resource packs: Default
+[15:13:29] [Server-Worker-1/INFO]: [OptiFine] Multitexture: false
+[15:13:30] [Server-Worker-1/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[15:13:30] [main/INFO]: OpenAL initialized.
+[15:13:30] [main/INFO]: Sound engine started
+[15:13:30] [main/INFO]: Created: 512x512 textures-atlas
+[15:13:30] [main/INFO]: [OptiFine] Animated sprites: 33
+[15:13:31] [main/INFO]: Created: 256x256 textures/particle-atlas
+[15:13:31] [main/INFO]: Created: 256x256 textures/painting-atlas
+[15:13:31] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[15:13:31] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[15:13:36] [main/INFO]: Connecting to 192.99.166.37, 25565
+[15:13:43] [main/INFO]: Loaded 232 advancements
+[15:13:52] [main/INFO]: [Shaders] Loaded shaderpack: SEUS_PTGI_E8.zip
+[15:13:52] [main/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[15:13:52] [main/WARN]: [OptiFine] [Shaders] Option profile can not be used, no profiles defined: <profile>, key: screen
+[15:13:52] [main/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux2 = textures/RippleAnimation2.png
+[15:13:52] [main/INFO]: [Shaders] Custom texture: texture.composite.colortex0 = minecraft:textures/atlas/blocks.png
+[15:13:52] [main/INFO]: [Shaders] Custom texture: texture.composite.colortex4 = textures/Caustics.png
+[15:13:52] [main/INFO]: [Shaders] Custom texture: texture.deferred.colortex0 = textures/Caustics.png
+[15:13:52] [main/INFO]: Reloading ResourceManager: Default
+[15:13:52] [main/INFO]: [OptiFine] *** Reloading textures ***
+[15:13:52] [main/INFO]: [OptiFine] Resource packs: Default
+[15:13:53] [Server-Worker-8/INFO]: [OptiFine] Multitexture: false
+[15:13:53] [Server-Worker-8/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[15:13:54] [main/INFO]: OpenAL initialized.
+[15:13:54] [main/INFO]: Sound engine started
+[15:13:54] [main/INFO]: Created: 512x512 textures-atlas
+[15:13:54] [main/INFO]: [Shaders] Allocate texture map normal: 512x512, mipmaps: 2
+[15:13:54] [main/INFO]: [Shaders] Allocate texture map specular: 512x512, mipmaps: 2
+[15:13:54] [main/INFO]: [OptiFine] Animated sprites: 33
+[15:13:54] [main/INFO]: Created: 256x256 textures/particle-atlas
+[15:13:54] [main/INFO]: Created: 256x256 textures/painting-atlas
+[15:13:54] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[15:13:54] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/shadow.vsh
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[15:13:56] [main/INFO]: [Shaders] Info log: shadow
+Vertex info
+-----------
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[15:13:56] [main/INFO]: [Shaders] Program loaded: shadow
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_basic
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Info log: gbuffers_textured
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_textured
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured_lit.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Info log: gbuffers_textured_lit
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_skybasic
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_skytextured
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_terrain.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Info log: gbuffers_terrain
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(146) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_terrain
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_damagedblock.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Info log: gbuffers_damagedblock
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_entities.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Info log: gbuffers_entities
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_entities
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
+[15:13:56] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:56] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:56] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:56] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:56] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:56] [main/INFO]: [Shaders] Info log: gbuffers_hand
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_hand
+[15:13:56] [main/INFO]: [Shaders] Program loaded: gbuffers_weather
+[15:13:56] [main/INFO]: [Shaders] colortex4 clear disabled
+[15:13:56] [main/INFO]: [Shaders] colortex5 clear disabled
+[15:13:56] [main/INFO]: [Shaders] Program loaded: deferred
+[15:13:57] [main/INFO]: [Shaders] Program loaded: deferred1
+[15:13:57] [main/INFO]: [Shaders] Program loaded: deferred2
+[15:13:57] [main/INFO]: [Shaders] Program loaded: deferred3
+[15:13:57] [main/INFO]: [Shaders] Program loaded: deferred4
+[15:13:57] [main/INFO]: [Shaders] Program loaded: deferred5
+[15:13:57] [main/INFO]: [Shaders] Shadow map resolution: 4096
+[15:13:57] [main/INFO]: [Shaders] Shadow map distance: 120.0
+[15:13:57] [main/INFO]: [Shaders] Shadow map interval size: 1.0
+[15:13:57] [main/INFO]: [Shaders] shadowHardwareFiltering0
+[15:13:57] [main/INFO]: [Shaders] shadowtex0Mipmap
+[15:13:57] [main/INFO]: [Shaders] Shadow distance render mul: 1.0
+[15:13:57] [main/INFO]: [Shaders] colortex0 format: RGB8
+[15:13:57] [main/INFO]: [Shaders] colortex1 format: RGBA16
+[15:13:57] [main/INFO]: [Shaders] colortex2 format: RGBA16
+[15:13:57] [main/INFO]: [Shaders] colortex3 format: RGBA16
+[15:13:57] [main/INFO]: [Shaders] colortex4 format: RGBA16F
+[15:13:57] [main/INFO]: [Shaders] colortex5 format: RGBA32F
+[15:13:57] [main/INFO]: [Shaders] colortex6 format: RGBA16F
+[15:13:57] [main/INFO]: [Shaders] colortex7 format: RGBA16
+[15:13:57] [main/INFO]: [Shaders] Sun path rotation: -40.0
+[15:13:57] [main/INFO]: [Shaders] Noise texture enabled
+[15:13:57] [main/INFO]: [Shaders] Noise texture resolution: 64
+[15:13:57] [main/INFO]: [Shaders] AO Level: 0.06
+[15:13:57] [main/INFO]: [Shaders] colortex7 clear disabled
+[15:13:57] [main/INFO]: [Shaders] Wetness halflife: 100.0
+[15:13:57] [main/INFO]: [Shaders] Dryness halflife: 100.0
+[15:13:57] [main/INFO]: [Shaders] Program loaded: deferred6
+[15:13:57] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:57] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:57] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:57] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:57] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_water.vsh
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:57] [main/INFO]: [Shaders] Info log: gbuffers_water
+Vertex info
+-----------
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7050: "tangent" might be used before being initialized
+0(18) : warning C7050: "binormal" might be used before being initialized
+
+Fragment info
+-------------
+0(448) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:57] [main/INFO]: [Shaders] Program loaded: gbuffers_water
+[15:13:57] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:13:57] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:13:57] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:13:57] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:13:57] [main/INFO]: [Shaders] File: 5 = /shaders/lib/Materials.inc
+[15:13:57] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand_water.vsh
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:13:57] [main/INFO]: [Shaders] Info log: gbuffers_hand_water
+Vertex info
+-----------
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:13:57] [main/INFO]: [Shaders] Program loaded: gbuffers_hand_water
+[15:13:57] [main/INFO]: [Shaders] Info log: composite
+Fragment info
+-------------
+0(38) : warning C7050: "timeMidnight" might be used before being initialized
+[15:13:57] [main/INFO]: [Shaders] Program loaded: composite
+[15:13:57] [main/INFO]: [Shaders] Program loaded: composite1
+[15:13:57] [main/INFO]: [Shaders] Program loaded: composite2
+[15:13:57] [main/INFO]: [Shaders] Program loaded: composite3
+[15:13:58] [main/INFO]: [Shaders] Program loaded: composite4
+[15:13:58] [main/INFO]: [Shaders] colortex3 mipmap enabled
+[15:13:58] [main/INFO]: [Shaders] Program loaded: composite5
+[15:13:58] [main/INFO]: [Shaders] Program loaded: composite6
+[15:13:58] [main/INFO]: [Shaders] Program loaded: composite7
+[15:13:58] [main/INFO]: [Shaders] Program disabled: composite8
+[15:13:58] [main/INFO]: [Shaders] Program loaded: final
+[15:13:58] [main/INFO]: [Shaders] usedColorBuffers: 8
+[15:13:58] [main/INFO]: [Shaders] usedDepthBuffers: 2
+[15:13:58] [main/INFO]: [Shaders] usedShadowColorBuffers: 2
+[15:13:58] [main/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[15:13:58] [main/INFO]: [Shaders] usedColorAttachs: 8
+[15:13:58] [main/INFO]: [Shaders] usedDrawBuffers: 8
+[15:13:58] [main/INFO]: [Shaders] Framebuffer created.
+[15:13:58] [main/INFO]: [Shaders] Shadow framebuffer created.
+[15:13:58] [main/INFO]: [Shaders] Reset model renderers
+[15:13:58] [main/INFO]: [Shaders] Reset world renderers
+[15:14:08] [main/INFO]: [Shaders] Save shaders configuration.
+[15:15:50] [main/INFO]: [Shaders] Save shaders configuration.
+[15:16:05] [main/INFO]: Reloading ResourceManager: Default, Vanilla-PBR-0.7.0.zip
+[15:16:05] [main/INFO]: [OptiFine] *** Reloading textures ***
+[15:16:05] [main/INFO]: [OptiFine] Resource packs: Vanilla-PBR-0.7.0.zip
+[15:16:05] [Server-Worker-20/INFO]: [OptiFine] Multitexture: false
+[15:16:05] [Server-Worker-20/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[15:16:06] [main/INFO]: OpenAL initialized.
+[15:16:06] [main/INFO]: Sound engine started
+[15:16:06] [main/INFO]: Created: 4096x4096 textures-atlas
+[15:16:06] [main/INFO]: [Shaders] Allocate texture map normal: 4096x4096, mipmaps: 2
+[15:16:06] [main/INFO]: [Shaders] Allocate texture map specular: 4096x4096, mipmaps: 2
+[15:16:06] [main/INFO]: [OptiFine] Animated sprites: 34
+[15:16:06] [main/INFO]: Created: 256x256 textures/particle-atlas
+[15:16:06] [main/INFO]: Created: 256x256 textures/painting-atlas
+[15:16:06] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[15:16:06] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[15:16:16] [main/INFO]: [Shaders] Save shaders configuration.
+[15:16:18] [main/INFO]: [Shaders] Uninit
+[15:16:18] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:18] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:18] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:18] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:18] [main/INFO]: [Shaders] Shader info log: /shaders/shadow.vsh
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[15:16:19] [main/INFO]: [Shaders] Info log: shadow
+Vertex info
+-----------
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[15:16:19] [main/INFO]: [Shaders] Program loaded: shadow
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_basic
+[15:16:19] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:19] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:19] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:19] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:19] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Info log: gbuffers_textured
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_textured
+[15:16:19] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:19] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:19] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:19] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:19] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured_lit.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Info log: gbuffers_textured_lit
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_skybasic
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_skytextured
+[15:16:19] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:19] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:19] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:19] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:19] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_terrain.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Info log: gbuffers_terrain
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(146) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_terrain
+[15:16:19] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:19] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:19] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:19] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:19] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_damagedblock.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Info log: gbuffers_damagedblock
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
+[15:16:19] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:19] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:19] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:19] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:19] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_entities.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Info log: gbuffers_entities
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_entities
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
+[15:16:19] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:19] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:19] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:19] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:19] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:19] [main/INFO]: [Shaders] Info log: gbuffers_hand
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_hand
+[15:16:19] [main/INFO]: [Shaders] Program loaded: gbuffers_weather
+[15:16:19] [main/INFO]: [Shaders] colortex4 clear disabled
+[15:16:19] [main/INFO]: [Shaders] colortex5 clear disabled
+[15:16:19] [main/INFO]: [Shaders] Program loaded: deferred
+[15:16:19] [main/INFO]: [Shaders] Program loaded: deferred1
+[15:16:19] [main/INFO]: [Shaders] Program loaded: deferred2
+[15:16:19] [main/INFO]: [Shaders] Program loaded: deferred3
+[15:16:19] [main/INFO]: [Shaders] Program loaded: deferred4
+[15:16:19] [main/INFO]: [Shaders] Program loaded: deferred5
+[15:16:19] [main/INFO]: [Shaders] Shadow map resolution: 4096
+[15:16:19] [main/INFO]: [Shaders] Shadow map distance: 120.0
+[15:16:19] [main/INFO]: [Shaders] Shadow map interval size: 1.0
+[15:16:19] [main/INFO]: [Shaders] shadowHardwareFiltering0
+[15:16:19] [main/INFO]: [Shaders] shadowtex0Mipmap
+[15:16:19] [main/INFO]: [Shaders] Shadow distance render mul: 1.0
+[15:16:19] [main/INFO]: [Shaders] colortex0 format: RGB8
+[15:16:19] [main/INFO]: [Shaders] colortex1 format: RGBA16
+[15:16:19] [main/INFO]: [Shaders] colortex2 format: RGBA16
+[15:16:19] [main/INFO]: [Shaders] colortex3 format: RGBA16
+[15:16:19] [main/INFO]: [Shaders] colortex4 format: RGBA16F
+[15:16:19] [main/INFO]: [Shaders] colortex5 format: RGBA32F
+[15:16:19] [main/INFO]: [Shaders] colortex6 format: RGBA16F
+[15:16:19] [main/INFO]: [Shaders] colortex7 format: RGBA16
+[15:16:19] [main/INFO]: [Shaders] Sun path rotation: -40.0
+[15:16:19] [main/INFO]: [Shaders] Noise texture enabled
+[15:16:19] [main/INFO]: [Shaders] Noise texture resolution: 64
+[15:16:19] [main/INFO]: [Shaders] AO Level: 0.06
+[15:16:19] [main/INFO]: [Shaders] colortex7 clear disabled
+[15:16:19] [main/INFO]: [Shaders] Wetness halflife: 100.0
+[15:16:19] [main/INFO]: [Shaders] Dryness halflife: 100.0
+[15:16:20] [main/INFO]: [Shaders] Program loaded: deferred6
+[15:16:20] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:20] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:20] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:20] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:20] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_water.vsh
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:20] [main/INFO]: [Shaders] Info log: gbuffers_water
+Vertex info
+-----------
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7050: "tangent" might be used before being initialized
+0(18) : warning C7050: "binormal" might be used before being initialized
+
+Fragment info
+-------------
+0(448) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:20] [main/INFO]: [Shaders] Program loaded: gbuffers_water
+[15:16:20] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:16:20] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:16:20] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:16:20] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:16:20] [main/INFO]: [Shaders] File: 5 = /shaders/lib/Materials.inc
+[15:16:20] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand_water.vsh
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:16:20] [main/INFO]: [Shaders] Info log: gbuffers_hand_water
+Vertex info
+-----------
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:16:20] [main/INFO]: [Shaders] Program loaded: gbuffers_hand_water
+[15:16:20] [main/INFO]: [Shaders] Info log: composite
+Fragment info
+-------------
+0(38) : warning C7050: "timeMidnight" might be used before being initialized
+[15:16:20] [main/INFO]: [Shaders] Program loaded: composite
+[15:16:20] [main/INFO]: [Shaders] Program loaded: composite1
+[15:16:20] [main/INFO]: [Shaders] Program loaded: composite2
+[15:16:21] [main/INFO]: [Shaders] Program loaded: composite3
+[15:16:21] [main/INFO]: [Shaders] Program loaded: composite4
+[15:16:21] [main/INFO]: [Shaders] colortex3 mipmap enabled
+[15:16:21] [main/INFO]: [Shaders] Program loaded: composite5
+[15:16:21] [main/INFO]: [Shaders] Program loaded: composite6
+[15:16:21] [main/INFO]: [Shaders] Program loaded: composite7
+[15:16:21] [main/INFO]: [Shaders] Program disabled: composite8
+[15:16:21] [main/INFO]: [Shaders] Program loaded: final
+[15:16:21] [main/INFO]: [Shaders] usedColorBuffers: 8
+[15:16:21] [main/INFO]: [Shaders] usedDepthBuffers: 2
+[15:16:21] [main/INFO]: [Shaders] usedShadowColorBuffers: 2
+[15:16:21] [main/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[15:16:21] [main/INFO]: [Shaders] usedColorAttachs: 8
+[15:16:21] [main/INFO]: [Shaders] usedDrawBuffers: 8
+[15:16:21] [main/INFO]: [Shaders] Framebuffer created.
+[15:16:21] [main/INFO]: [Shaders] Shadow framebuffer created.
+[15:16:21] [main/INFO]: [Shaders] Reset model renderers
+[15:16:21] [main/INFO]: [Shaders] Reset world renderers
+[15:16:23] [main/INFO]: [Shaders] Save shaders configuration.
+[15:16:34] [main/INFO]: [Shaders] Save shaders configuration.
+[15:17:22] [main/INFO]: [Shaders] Save shaders configuration.
+[15:17:28] [main/INFO]: [Shaders] Uninit
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/shadow.vsh
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[15:17:28] [main/INFO]: [Shaders] Info log: shadow
+Vertex info
+-----------
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[15:17:28] [main/INFO]: [Shaders] Program loaded: shadow
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_basic
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Info log: gbuffers_textured
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_textured
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured_lit.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Info log: gbuffers_textured_lit
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_skybasic
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_skytextured
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_terrain.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Info log: gbuffers_terrain
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(146) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_terrain
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_damagedblock.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Info log: gbuffers_damagedblock
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_entities.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Info log: gbuffers_entities
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_entities
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
+[15:17:28] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:28] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:28] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:28] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:28] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:28] [main/INFO]: [Shaders] Info log: gbuffers_hand
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_hand
+[15:17:28] [main/INFO]: [Shaders] Program loaded: gbuffers_weather
+[15:17:28] [main/INFO]: [Shaders] colortex4 clear disabled
+[15:17:28] [main/INFO]: [Shaders] colortex5 clear disabled
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred1
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred2
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred3
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred4
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred5
+[15:17:29] [main/INFO]: [Shaders] Shadow map resolution: 4096
+[15:17:29] [main/INFO]: [Shaders] Shadow map distance: 120.0
+[15:17:29] [main/INFO]: [Shaders] Shadow map interval size: 1.0
+[15:17:29] [main/INFO]: [Shaders] shadowHardwareFiltering0
+[15:17:29] [main/INFO]: [Shaders] shadowtex0Mipmap
+[15:17:29] [main/INFO]: [Shaders] Shadow distance render mul: 1.0
+[15:17:29] [main/INFO]: [Shaders] colortex0 format: RGB8
+[15:17:29] [main/INFO]: [Shaders] colortex1 format: RGBA16
+[15:17:29] [main/INFO]: [Shaders] colortex2 format: RGBA16
+[15:17:29] [main/INFO]: [Shaders] colortex3 format: RGBA16
+[15:17:29] [main/INFO]: [Shaders] colortex4 format: RGBA16F
+[15:17:29] [main/INFO]: [Shaders] colortex5 format: RGBA32F
+[15:17:29] [main/INFO]: [Shaders] colortex6 format: RGBA16F
+[15:17:29] [main/INFO]: [Shaders] colortex7 format: RGBA16
+[15:17:29] [main/INFO]: [Shaders] Sun path rotation: -40.0
+[15:17:29] [main/INFO]: [Shaders] Noise texture enabled
+[15:17:29] [main/INFO]: [Shaders] Noise texture resolution: 64
+[15:17:29] [main/INFO]: [Shaders] AO Level: 0.06
+[15:17:29] [main/INFO]: [Shaders] colortex7 clear disabled
+[15:17:29] [main/INFO]: [Shaders] Wetness halflife: 100.0
+[15:17:29] [main/INFO]: [Shaders] Dryness halflife: 100.0
+[15:17:29] [main/INFO]: [Shaders] Program loaded: deferred6
+[15:17:29] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:29] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:29] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:29] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:29] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_water.vsh
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:29] [main/INFO]: [Shaders] Info log: gbuffers_water
+Vertex info
+-----------
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7050: "tangent" might be used before being initialized
+0(18) : warning C7050: "binormal" might be used before being initialized
+
+Fragment info
+-------------
+0(448) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:29] [main/INFO]: [Shaders] Program loaded: gbuffers_water
+[15:17:29] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[15:17:29] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[15:17:29] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[15:17:29] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[15:17:29] [main/INFO]: [Shaders] File: 5 = /shaders/lib/Materials.inc
+[15:17:29] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand_water.vsh
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[15:17:30] [main/INFO]: [Shaders] Info log: gbuffers_hand_water
+Vertex info
+-----------
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[15:17:30] [main/INFO]: [Shaders] Program loaded: gbuffers_hand_water
+[15:17:30] [main/INFO]: [Shaders] Info log: composite
+Fragment info
+-------------
+0(38) : warning C7050: "timeMidnight" might be used before being initialized
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite1
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite2
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite3
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite4
+[15:17:30] [main/INFO]: [Shaders] colortex3 mipmap enabled
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite5
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite6
+[15:17:30] [main/INFO]: [Shaders] Program loaded: composite7
+[15:17:30] [main/INFO]: [Shaders] Program disabled: composite8
+[15:17:30] [main/INFO]: [Shaders] Program loaded: final
+[15:17:30] [main/INFO]: [Shaders] usedColorBuffers: 8
+[15:17:30] [main/INFO]: [Shaders] usedDepthBuffers: 2
+[15:17:30] [main/INFO]: [Shaders] usedShadowColorBuffers: 2
+[15:17:30] [main/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[15:17:30] [main/INFO]: [Shaders] usedColorAttachs: 8
+[15:17:30] [main/INFO]: [Shaders] usedDrawBuffers: 8
+[15:17:30] [main/INFO]: [Shaders] Framebuffer created.
+[15:17:30] [main/INFO]: [Shaders] Shadow framebuffer created.
+[15:17:30] [main/INFO]: [Shaders] Reset model renderers
+[15:17:30] [main/INFO]: [Shaders] Reset world renderers
+[15:17:32] [main/INFO]: [Shaders] Save shaders configuration.
+[15:19:52] [main/ERROR]: OpenGL API ERROR: 1284 (GL_STACK_UNDERFLOW error generated. Texture matrix stack underflow.)
+java.lang.Exception: Stack trace
+	at org.lwjgl.opengl.GLDebugMessageCallbackI.callback(GLDebugMessageCallbackI.java:39) [lwjgl-opengl-3.2.2.jar:build 10]
+	at org.lwjgl.opengl.GL11.glPopMatrix(Native Method) ~[lwjgl-opengl-3.2.2.jar:build 10]
+	at com.mojang.blaze3d.platform.GlStateManager.popMatrix(GlStateManager.java:813) [GlStateManager.class:?]
+	at cyc.e(SourceFile:970) [cyc.class:?]
+	at cyc.b(SourceFile:410) [cyc.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:155) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:159) [launchwrapper-of-2.1.jar:2.1]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:30) [launchwrapper-of-2.1.jar:2.1]
+[15:19:52] [main/ERROR]: [Shaders] OpenGL error: 1284 (Stack underflow), program: none, at: pre beginRender
+[15:22:59] [main/INFO]: [CHAT] zackalegomaniac fell from a high place
+[15:23:01] [main/INFO]: [CHAT] Your home bed was missing or obstructed
+[15:26:11] [main/INFO]: [CHAT] Saved screenshot as 2019-08-07_15.26.10.png
+[15:34:49] [main/INFO]: [CHAT] TrafficHazard has made the advancement [Ol' Betsy]
+[15:34:49] [main/INFO]: [CHAT] TrafficHazard has made the advancement [Take Aim]
+[15:34:57] [main/INFO]: [CHAT] zackalegomaniac fell from a high place
+[15:36:44] [main/WARN]: Received passengers for unknown entity
+[15:39:27] [main/INFO]: Loaded 233 advancements
+[15:40:52] [main/INFO]: Loaded 235 advancements
+[15:47:39] [main/INFO]: Loaded 244 advancements
+[15:57:08] [main/INFO]: [Shaders] No shaderpack loaded.
+[15:57:08] [main/INFO]: Reloading ResourceManager: Default, Vanilla-PBR-0.7.0.zip
+[15:57:08] [main/INFO]: [OptiFine] *** Reloading textures ***
+[15:57:08] [main/INFO]: [OptiFine] Resource packs: Vanilla-PBR-0.7.0.zip
+[15:57:08] [main/INFO]: [Shaders] Uninit
+[15:57:09] [Server-Worker-97/INFO]: [OptiFine] Multitexture: false
+[15:57:09] [Server-Worker-97/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[15:57:09] [main/INFO]: OpenAL initialized.
+[15:57:09] [main/INFO]: Sound engine started
+[15:57:09] [main/INFO]: Created: 4096x4096 textures-atlas
+[15:57:09] [main/INFO]: [OptiFine] Animated sprites: 34
+[15:57:09] [main/INFO]: Created: 256x256 textures/particle-atlas
+[15:57:09] [main/INFO]: Created: 256x256 textures/painting-atlas
+[15:57:09] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[15:57:09] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[15:57:12] [main/INFO]: [Shaders] Save shaders configuration.
+[15:59:59] [main/INFO]: [Shaders] Loaded shaderpack: SEUS_PTGI_E8.zip
+[15:59:59] [main/INFO]: [OptiFine] [Shaders] Parsing block mappings: /shaders/block.properties
+[15:59:59] [main/WARN]: [OptiFine] [Shaders] Option profile can not be used, no profiles defined: <profile>, key: screen
+[15:59:59] [main/INFO]: [Shaders] Custom texture: texture.gbuffers.gaux2 = textures/RippleAnimation2.png
+[15:59:59] [main/INFO]: [Shaders] Custom texture: texture.composite.colortex0 = minecraft:textures/atlas/blocks.png
+[15:59:59] [main/INFO]: [Shaders] Custom texture: texture.composite.colortex4 = textures/Caustics.png
+[15:59:59] [main/INFO]: [Shaders] Custom texture: texture.deferred.colortex0 = textures/Caustics.png
+[15:59:59] [main/INFO]: Reloading ResourceManager: Default, Vanilla-PBR-0.7.0.zip
+[15:59:59] [main/INFO]: [OptiFine] *** Reloading textures ***
+[15:59:59] [main/INFO]: [OptiFine] Resource packs: Vanilla-PBR-0.7.0.zip
+[16:00:00] [Server-Worker-110/INFO]: [OptiFine] Multitexture: false
+[16:00:00] [Server-Worker-110/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[16:00:01] [main/INFO]: OpenAL initialized.
+[16:00:01] [main/INFO]: Sound engine started
+[16:00:01] [main/INFO]: Created: 4096x4096 textures-atlas
+[16:00:01] [main/INFO]: [Shaders] Allocate texture map normal: 4096x4096, mipmaps: 2
+[16:00:01] [main/INFO]: [Shaders] Allocate texture map specular: 4096x4096, mipmaps: 2
+[16:00:01] [main/INFO]: [OptiFine] Animated sprites: 34
+[16:00:01] [main/INFO]: Created: 256x256 textures/particle-atlas
+[16:00:01] [main/INFO]: Created: 256x256 textures/painting-atlas
+[16:00:01] [main/INFO]: Created: 128x128 textures/mob_effect-atlas
+[16:00:01] [main/INFO]: [OptiFine] *** Reloading custom textures ***
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/shadow.vsh
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[16:00:02] [main/INFO]: [Shaders] Info log: shadow
+Vertex info
+-----------
+0(13) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(14) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(428) : warning C7533: global variable gl_FrontColor is deprecated after version 120
+[16:00:02] [main/INFO]: [Shaders] Program loaded: shadow
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_basic
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_textured
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_textured
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_textured_lit.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_textured_lit
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_textured_lit
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_skybasic
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_skytextured
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_terrain.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_terrain
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(146) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_terrain
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_damagedblock.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_damagedblock
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_damagedblock
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_entities.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_entities
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_entities
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_armor_glint
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand.vsh
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_hand
+Vertex info
+-----------
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(18) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(139) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_hand
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_weather
+[16:00:02] [main/INFO]: [Shaders] colortex4 clear disabled
+[16:00:02] [main/INFO]: [Shaders] colortex5 clear disabled
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred1
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred2
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred3
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred4
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred5
+[16:00:02] [main/INFO]: [Shaders] Shadow map resolution: 4096
+[16:00:02] [main/INFO]: [Shaders] Shadow map distance: 120.0
+[16:00:02] [main/INFO]: [Shaders] Shadow map interval size: 1.0
+[16:00:02] [main/INFO]: [Shaders] shadowHardwareFiltering0
+[16:00:02] [main/INFO]: [Shaders] shadowtex0Mipmap
+[16:00:02] [main/INFO]: [Shaders] Shadow distance render mul: 1.0
+[16:00:02] [main/INFO]: [Shaders] colortex0 format: RGB8
+[16:00:02] [main/INFO]: [Shaders] colortex1 format: RGBA16
+[16:00:02] [main/INFO]: [Shaders] colortex2 format: RGBA16
+[16:00:02] [main/INFO]: [Shaders] colortex3 format: RGBA16
+[16:00:02] [main/INFO]: [Shaders] colortex4 format: RGBA16F
+[16:00:02] [main/INFO]: [Shaders] colortex5 format: RGBA32F
+[16:00:02] [main/INFO]: [Shaders] colortex6 format: RGBA16F
+[16:00:02] [main/INFO]: [Shaders] colortex7 format: RGBA16
+[16:00:02] [main/INFO]: [Shaders] Sun path rotation: -40.0
+[16:00:02] [main/INFO]: [Shaders] Noise texture enabled
+[16:00:02] [main/INFO]: [Shaders] Noise texture resolution: 64
+[16:00:02] [main/INFO]: [Shaders] AO Level: 0.06
+[16:00:02] [main/INFO]: [Shaders] colortex7 clear disabled
+[16:00:02] [main/INFO]: [Shaders] Wetness halflife: 100.0
+[16:00:02] [main/INFO]: [Shaders] Dryness halflife: 100.0
+[16:00:02] [main/INFO]: [Shaders] Program loaded: deferred6
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_water.vsh
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_water
+Vertex info
+-----------
+0(6) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7050: "tangent" might be used before being initialized
+0(18) : warning C7050: "binormal" might be used before being initialized
+
+Fragment info
+-------------
+0(448) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_water
+[16:00:02] [main/INFO]: [Shaders] File: 1 = /shaders/lib/Uniforms.inc
+[16:00:02] [main/INFO]: [Shaders] File: 2 = /shaders/lib/Common.inc
+[16:00:02] [main/INFO]: [Shaders] File: 3 = /shaders/lib/DataPacking.inc
+[16:00:02] [main/INFO]: [Shaders] File: 4 = /shaders/lib/TAA.inc
+[16:00:02] [main/INFO]: [Shaders] File: 5 = /shaders/lib/Materials.inc
+[16:00:02] [main/INFO]: [Shaders] Shader info log: /shaders/gbuffers_hand_water.vsh
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+[16:00:02] [main/INFO]: [Shaders] Info log: gbuffers_hand_water
+Vertex info
+-----------
+0(15) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(16) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+0(17) : warning C7555: 'attribute' is deprecated, use 'in/out' instead
+
+Fragment info
+-------------
+0(140) : warning C7050: "gbuffer.depth" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: gbuffers_hand_water
+[16:00:02] [main/INFO]: [Shaders] Info log: composite
+Fragment info
+-------------
+0(38) : warning C7050: "timeMidnight" might be used before being initialized
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite1
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite2
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite3
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite4
+[16:00:02] [main/INFO]: [Shaders] colortex3 mipmap enabled
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite5
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite6
+[16:00:02] [main/INFO]: [Shaders] Program loaded: composite7
+[16:00:02] [main/INFO]: [Shaders] Program disabled: composite8
+[16:00:02] [main/INFO]: [Shaders] Program loaded: final
+[16:00:02] [main/INFO]: [Shaders] usedColorBuffers: 8
+[16:00:02] [main/INFO]: [Shaders] usedDepthBuffers: 2
+[16:00:02] [main/INFO]: [Shaders] usedShadowColorBuffers: 2
+[16:00:02] [main/INFO]: [Shaders] usedShadowDepthBuffers: 2
+[16:00:02] [main/INFO]: [Shaders] usedColorAttachs: 8
+[16:00:02] [main/INFO]: [Shaders] usedDrawBuffers: 8
+[16:00:02] [main/INFO]: [Shaders] Framebuffer created.
+[16:00:02] [main/INFO]: [Shaders] Shadow framebuffer created.
+[16:00:02] [main/INFO]: [Shaders] Reset model renderers
+[16:00:02] [main/INFO]: [Shaders] Reset world renderers
+[16:00:04] [main/INFO]: [Shaders] Save shaders configuration.
+[16:00:16] [main/INFO]: [CHAT] zackalegomaniac has made the advancement [We Need to Go Deeper]
+[16:00:17] [main/INFO]: Loaded 255 advancements
