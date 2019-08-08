@@ -7,9 +7,11 @@ V1.0
 
 ## Introduction:
 
-The skecpticism twoards the safety of this program is very reasonable, I am working to make sure that the program is as safe as possible.
+The skecpticism twoards the safety of this program is very reasonable, I am working to make sure that the program is as safe as possible, I would be happy to answer any questions you may have, contact information is below.
 
 This program utilises the "latest.log" file that minecraft uses, this file contains no exploitable information.
+
+This program does not require any passwords to use, the notification system is automatic.
 
 
 ## Directory Setup:
@@ -28,14 +30,14 @@ You can either receive an sms or an email to notify you.
 
 ## SMS Setup:
 
-Select your phone provider in the dropdown, If you don't have one of the providers, you can hardcode the email, refer to Email Setup, and use this site.
+Select your phone provider in the dropdown, If you don't have one of the providers, you can hardcode the email, refer to Email Setup.  Most phone providers have email systems to text via Email.
 
 Input your phone number into the box labeled “Phone Number / Email” with no spaces or special characters.
 
 Example of what the phone number should look like:
 1234567890
 
-You may test the message by clicking the “Test Email” button, it has a cooldown.
+You may test the message by clicking the “Test Email” button, it has a cooldown, and a limit of 5 messages an hour
 
 ## Email Setup:
 
@@ -58,11 +60,11 @@ At the top right of the window is the log, it is a text box that updates over ti
 The log is mostly for development, but can be used to see what the log file is saying if you are interested.
 
 
-Progress Circle & Queue Position:
+## Progress Circle & Queue Position:
 
 The right side of the screen contains the progress circle and a text box outlining you current position in the queue.
 
-Once your queue position is 10, the email will be sent, and the progress circle will become green.
+Once your queue position is 15, the email will be sent, and the progress circle will become green.
 
 
 ## Questions?
