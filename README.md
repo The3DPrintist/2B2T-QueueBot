@@ -88,7 +88,7 @@ u/The3DPrintist
 
 Zachary S. - Main dev
 
-Ethan J. - Email system dev
+Ethan J. - Email System dev
 
 Chandler T. - File Manager dev
 
