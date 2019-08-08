@@ -28,6 +28,8 @@ C:/Users/USER/AppData/Roaming/.minecraft/logs/latest.log
 
 You can either receive an sms or an email to notify you.
 
+The notification system does not require any passwords to use, just the email or phone number for the message to be sent to.
+
 ## SMS Setup:
 
 Select your phone provider in the dropdown, If you don't have one of the providers, you can hardcode the email, refer to Email Setup.  Most phone providers have email systems to text via Email.
