@@ -57,7 +57,7 @@ The “Reset” button will reload the entire program, this will currently also 
 
 ## Log:
 
-At the top right of the window is the log, it is a text box that updates over time.
+At the top right of the window is the log, it is disabled by default, press ~ to enable it. 
 
 The log is mostly for development, but can be used to see what the log file is saying if you are interested.
 
