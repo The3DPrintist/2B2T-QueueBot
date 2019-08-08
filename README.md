@@ -2,8 +2,7 @@
 
 Made by: u/The3DPrintist
 
-V1.0
-
+V1.1
 
 ## Introduction:
 
