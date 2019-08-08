@@ -70,6 +70,11 @@ The right side of the screen contains the progress circle and a text box outlini
 
 Once your queue position is 15, the email will be sent, and the progress circle will become green.
 
+## Donations
+
+This project took lots of time and energy, consider donating to support the developers.
+
+paypal.me/2b2tAlertbot
 
 ## Questions?
 
@@ -78,3 +83,17 @@ If you have any other questions, you can contact me:
 2b2talertbot@gmail.com
 
 u/The3DPrintist
+
+## Credits:
+
+Zachary S. - Main dev
+
+Ethan J. - Email system dev
+
+Chandler T. - File Manager dev
+
+
+u/R2bEEaton_ - Inspiration
+
+
+
