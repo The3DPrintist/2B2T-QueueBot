@@ -7,7 +7,9 @@ V1.0
 
 ## Introduction:
 
-The skecpticism twoards the safety of this program is very reasonable, I am working to make sure that the program is as safe as possible, I would be happy to answer any questions you may have, contact information is below.
+The skecpticism twoards the safety of this program is very reasonable, I am working to make sure that the program is as safe as possible for the user, I would be happy to answer any questions you may have, contact information is below.
+
+My intentions with this program is to fix an issue many community members experiance.  I created this program to streamline the 2B2T experiance.
 
 This program utilises the "latest.log" file that minecraft uses, this file contains no exploitable information.
 
